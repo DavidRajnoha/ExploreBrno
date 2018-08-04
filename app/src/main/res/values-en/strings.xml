@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+
+    <string name="app_name">Explore Brno</string>
+    <string name="Sada_1">Statues</string>
+    <string name="Sada_2">The Holedná</string>
+    <string name="Sada_3">Churches</string>
+    <string name="Sada_4">The Viewpoints of Brno</string>
+
+
+    <string name="Set_1_Q1_Q">English Question 1</string>
+    <string name="Set_1_Q1_A1">English Question 1</string>
+    <string name="Set_1_Q1_A2">English Question 1</string>
+    <string name="Set_1_Q1_A3">English Question 1</string>
+    <string name="Set_1_Q1_A4">English Question 1</string>
+
+    <string name="Set_1_Q2_Q">English Question 1</string>
+    <string name="Set_1_Q2_A1">English Question 1</string>
+    <string name="Set_1_Q2_A2">English Question 1</string>
+    <string name="Set_1_Q2_A3">English Question 1</string>
+    <string name="Set_1_Q2_A4">English Question 1</string>
+
+    <string name="Set_1_Q3_Q">English Question 1</string>
+    <string name="Set_1_Q3_A1">English Question 1</string>
+    <string name="Set_1_Q3_A2">English Question 1</string>
+    <string name="Set_1_Q3_A3">English Question 1</string>
+    <string name="Set_1_Q3_A4">English Question 1</string>
+
+    <string name="Set_1_Q4_Q">English Question 1</string>
+    <string name="Set_1_Q4_A1">English Question 1</string>
+    <string name="Set_1_Q4_A2">English Question 1</string>
+    <string name="Set_1_Q4_A3">English Question 1</string>
+    <string name="Set_1_Q4_A4">English Question 1</string>
+
+
+
+    <string name="Set_2_Q1_Q">English Question 1</string>
+    <string name="Set_2_Q1_A1">English Question 1</string>
+    <string name="Set_2_Q1_A2">English Question 1</string>
+    <string name="Set_2_Q1_A3">English Question 1</string>
+    <string name="Set_2_Q1_A4">English Question 1</string>
+
+    <string name="Set_2_Q2_Q">English Question 1</string>
+    <string name="Set_2_Q2_A1">English Question 1</string>
+    <string name="Set_2_Q2_A2">English Question 1</string>
+    <string name="Set_2_Q2_A3">English Question 1</string>
+    <string name="Set_2_Q2_A4">English Question 1</string>
+
+    <string name="Set_2_Q3_Q">English Question 1</string>
+    <string name="Set_2_Q3_A1">English Question 1</string>
+    <string name="Set_2_Q3_A2">English Question 1</string>
+    <string name="Set_2_Q3_A3">English Question 1</string>
+    <string name="Set_2_Q3_A4">English Question 1</string>
+
+    <string name="Set_2_Q4_Q">English Question 1</string>
+    <string name="Set_2_Q4_A1">English Question 1</string>
+    <string name="Set_2_Q4_A2">English Question 1</string>
+    <string name="Set_2_Q4_A3">English Question 1</string>
+    <string name="Set_2_Q4_A4">English Question 1</string>
+
+
+    <string name="Set_3_Q1_Q">English Question 1</string>
+    <string name="Set_3_Q1_A1">English Question 1</string>
+    <string name="Set_3_Q1_A2">English Question 1</string>
+    <string name="Set_3_Q1_A3">English Question 1</string>
+    <string name="Set_3_Q1_A4">English Question 1</string>
+
+    <string name="Set_3_Q2_Q">English Question 1</string>
+    <string name="Set_3_Q2_A1">English Question 1</string>
+    <string name="Set_3_Q2_A2">English Question 1</string>
+    <string name="Set_3_Q2_A3">English Question 1</string>
+    <string name="Set_3_Q2_A4">English Question 1</string>
+
+    <string name="Set_3_Q3_Q">English Question 1</string>
+    <string name="Set_3_Q3_A1">English Question 1</string>
+    <string name="Set_3_Q3_A2">English Question 1</string>
+    <string name="Set_3_Q3_A3">English Question 1</string>
+    <string name="Set_3_Q3_A4">English Question 1</string>
+
+    <string name="Set_3_Q4_Q">English Question 1</string>
+    <string name="Set_3_Q4_A1">English Question 1</string>
+    <string name="Set_3_Q4_A2">English Question 1</string>
+    <string name="Set_3_Q4_A3">English Question 1</string>
+    <string name="Set_3_Q4_A4">English Question 1</string>
+
+
+</resources>

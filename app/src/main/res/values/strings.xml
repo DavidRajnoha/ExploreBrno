@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+
+    <string name="app_name">Objev Brno</string>
+    <string name="Sada_1">Sochy</string>
+    <string name="Sada_2">Holedná</string>
+    <string name="Sada_3">Kostely</string>
+    <string name="Sada_4">Výhledy</string>
+
+
+    <string name="Set_1_Q1_Q">Česká otázka 1_1</string>
+    <string name="Set_1_Q1_A1">Česká správná odpověď</string>
+    <string name="Set_1_Q1_A2">Česká špatná odpověď</string>
+    <string name="Set_1_Q1_A3">Česká špatná odpověď</string>
+    <string name="Set_1_Q1_A4">Česká špatná odpověď</string>
+
+    <string name="Set_1_Q2_Q">Česká otázka 1_2</string>
+    <string name="Set_1_Q2_A1">Česká špatná odpověď</string>
+    <string name="Set_1_Q2_A2">Česká špatná odpověď</string>
+    <string name="Set_1_Q2_A3">Česká špatná odpověď</string>
+    <string name="Set_1_Q2_A4">Česká špatná odpověď</string>
+
+    <string name="Set_1_Q3_Q">Česká otázka 1_3</string>
+    <string name="Set_1_Q3_A1">Česká správná odpověď</string>
+    <string name="Set_1_Q3_A2">Česká špatná odpověď</string>
+    <string name="Set_1_Q3_A3">Česká špatná odpověď</string>
+    <string name="Set_1_Q3_A4">Česká špatná odpověď</string>
+
+    <string name="Set_1_Q4_Q">Česká otázka 1_4</string>
+    <string name="Set_1_Q4_A1">Česká správná odpověď</string>
+    <string name="Set_1_Q4_A2">Česká špatná odpověď</string>
+    <string name="Set_1_Q4_A3">Česká špatná odpověď</string>
+    <string name="Set_1_Q4_A4">Česká špatná odpověď</string>
+
+
+
+    <string name="Set_2_Q1_Q">Česká otázka 2_1</string>
+    <string name="Set_2_Q1_A1">Česká správná odpověď</string>
+    <string name="Set_2_Q1_A2">Česká špatná odpověď</string>
+    <string name="Set_2_Q1_A3">Česká špatná odpověď</string>
+    <string name="Set_2_Q1_A4">Česká špatná odpověď</string>
+
+    <string name="Set_2_Q2_Q">Česká otázka 2_2</string>
+    <string name="Set_2_Q2_A1">Česká správná odpověď</string>
+    <string name="Set_2_Q2_A2">Česká špatná odpověď</string>
+    <string name="Set_2_Q2_A3">Česká špatná odpověď</string>
+    <string name="Set_2_Q2_A4">Česká špatná odpověď</string>
+
+    <string name="Set_2_Q3_Q">Česká otázka 2_3</string>
+    <string name="Set_2_Q3_A1">Česká správná odpověď</string>
+    <string name="Set_2_Q3_A2">Česká špatná odpověď</string>
+    <string name="Set_2_Q3_A3">Česká špatná odpověď</string>
+    <string name="Set_2_Q3_A4">Česká špatná odpověď</string>
+
+    <string name="Set_2_Q4_Q">Česká otázka 2_4</string>
+    <string name="Set_2_Q4_A1">Česká správná odpověď</string>
+    <string name="Set_2_Q4_A2">Česká špatná odpověď</string>
+    <string name="Set_2_Q4_A3">Česká špatná odpověď</string>
+    <string name="Set_2_Q4_A4">Česká špatná odpověď</string>
+
+
+    <string name="Set_3_Q1_Q">Česká otázka 3_1</string>
+    <string name="Set_3_Q1_A1">Česká správná odpověď</string>
+    <string name="Set_3_Q1_A2">Česká špatná odpověď</string>
+    <string name="Set_3_Q1_A3">Česká špatná odpověď</string>
+    <string name="Set_3_Q1_A4">Česká špatná odpověď</string>
+
+    <string name="Set_3_Q2_Q">Česká otázka 3_2</string>
+    <string name="Set_3_Q2_A1">Česká správná odpověď</string>
+    <string name="Set_3_Q2_A2">Česká špatná odpověď</string>
+    <string name="Set_3_Q2_A3">Česká špatná odpověď</string>
+    <string name="Set_3_Q2_A4">Česká špatná odpověď</string>
+
+    <string name="Set_3_Q3_Q">Česká otázka 3_3</string>
+    <string name="Set_3_Q3_A1">Česká správná odpověď</string>
+    <string name="Set_3_Q3_A2">Česká špatná odpověď</string>
+    <string name="Set_3_Q3_A3">Česká špatná odpověď</string>
+    <string name="Set_3_Q3_A4">Česká špatná odpověď</string>
+
+    <string name="Set_3_Q4_Q">Česká otázka 3_4</string>
+    <string name="Set_3_Q4_A1">Česká správná odpověď</string>
+    <string name="Set_3_Q4_A2">Česká špatná odpověď</string>
+    <string name="Set_3_Q4_A3">Česká špatná odpověď</string>
+    <string name="Set_3_Q4_A4">Česká špatná odpověď</string>
+    <string name="Set_1_test">2</string>
+
+
+</resources>
